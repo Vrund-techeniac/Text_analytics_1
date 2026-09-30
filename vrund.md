@@ -6,7 +6,7 @@ Android | ios  | winodw
 medium fro andorid | medium app for ios | same
 blerflbwbfvlefbvbel|dlf;wfpwfnwnr|nilerngipgppergwrgttgtg
 [Play Store](https://play.google.com/)| hkws|nklwel
-![](https://tse4.mm.bing.net/th/id/OIP.3y5wJinBpz5EA0nGAhQoKAHaIS?r=0&rs=1&pid=ImgDetMain&o=7&rm=3  "this is ")
+![](https://tse4.mm.bing.net/th/id/OIP.3y5wJinBpz5EA0nGAhQoKAHaIS?r=0&rs=1&pid=ImgDetMain&o=7&rm=3  "this is ") |![](MarkdownExamples/ios.png)
 
 
 for image ![](link) and when we want some text that shows  when we hover on the image then add the text after link in the ""
