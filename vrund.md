@@ -1,5 +1,12 @@
 # header1 
 ## header2 
+
+Android | ios  | winodw
+---------- | ------------- | -------
+medium fro andorid | medium app for ios | same
+blerflbwbfvlefbvbel|dlf;wfpwfnwnr|nilerngipgppergwrgttgtg
+
+
 can go all the way to 6 
  
  i am goging to be **talking** noncense of here 
